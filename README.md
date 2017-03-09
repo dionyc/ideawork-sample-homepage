@@ -1,6 +1,6 @@
-# [ideawork Sample Homepage](https://dionyc.github.io/ideawork-sample-homepage)
-> A This sample project uses React, its mobile responsive with a carousel.
-
+# [ideawork Sample Homepage](http://ideawork-sample-homepage.herokuapp.com)
+> This sample project uses React, its mobile responsive with a carousel.
+> <a href="http://ideawork-sample-homepage.herokuapp.com" target="_blank">Live Demo</a>
 <div>
   <sub>Made with ❤︎ by <a href="https://twitter.com/dionycdot" target="_blank">Diony C.</a></sub>
 </div>
